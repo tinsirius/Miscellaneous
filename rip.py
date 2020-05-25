@@ -8,6 +8,9 @@
 # We avoid using threads.
 # ALL update messages are sent via multicast; there is no "neighbor discovery"
 
+# Modification by Tin Tran
+# Email: trungtin60au9@gmail.com
+
 import socket
 import os
 import time
